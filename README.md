@@ -3,6 +3,7 @@
 A Next.js meeting copilot prototype for the TwinMind live suggestions assignment.
 
 **Live Demo:** [AI Live Suggestion Copilot](https://ai-live-suggestion-copilot.onrender.com/)
+**Video Demo:** [Watch on Loom](https://www.loom.com/share/d2ad2ea688444fe8a70b597ceb3fe370)
 
 ## What It Does
 
