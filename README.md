@@ -2,6 +2,8 @@
 
 A Next.js meeting copilot prototype for the TwinMind live suggestions assignment.
 
+**Live Demo:** [AI Live Suggestion Copilot](https://ai-live-suggestion-copilot.onrender.com/)
+
 ## What It Does
 
 - Records live microphone audio in the browser
